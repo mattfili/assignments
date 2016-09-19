@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "380CBE860BD695F7C538F560621E6235B3B1391C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "380CBE860BD695F7C538F560621E6235B3B1391C" : 9223372036854775807,
+    "164F18FA96DCF64EF271B5FAFA0A66F724E62DC0" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9FD1D077-38B8-487F-8EED-858E2745EF7A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "380CBE860BD695F7C538F560621E6235B3B1391C" : "assignments\/",
+    "164F18FA96DCF64EF271B5FAFA0A66F724E62DC0" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Fili_Homework-Assignment1",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Fili_Homework-Assignment1\/Fili_Homework-Assignment1.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mattfili\/NSSwift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "164F18FA96DCF64EF271B5FAFA0A66F724E62DC0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mattfili\/assignments.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "380CBE860BD695F7C538F560621E6235B3B1391C"
+    }
+  ]
+}
